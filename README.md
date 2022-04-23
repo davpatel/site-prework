@@ -39,10 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-<iframe src="https://giphy.com/embed/MMBDJqwmwnWiqM5S9Q" width="480" height="334" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MMBDJqwmwnWiqM5S9Q">via GIPHY</a></p>
+https://media.giphy.com/media/DgE2XRQ555xkIWWCXh/giphy.gif 
 
 https://media.giphy.com/media/MMBDJqwmwnWiqM5S9Q/giphy.gif
-
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
